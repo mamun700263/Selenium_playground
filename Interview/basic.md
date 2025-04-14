@@ -1,8 +1,8 @@
 ### **🔹 Basic Selenium Questions and Answers**  
-1. [What is Selenium, and how does it work?](#what-is-selenium-and-how-does-it-work)
-2. [What are the limitations of Selenium?](#what-are-the-limitations-of-selenium)
-3. [How do you install Selenium and set up a WebDriver for Chrome?](#how-do-you-install-selenium-and-set-up-a-webdriver-for-chrome)
-4. [How does Selenium interact with a webpage? Explain how it finds and manipulates elements.](#how-does-selenium-interact-with-a-webpage-explain-how-it-finds-and-manipulates-elements)
+1. [What is Selenium, and how does it work?](#1-what-is-selenium-and-how-does-it-work)
+2. [What are the limitations of Selenium?](#2-what-are-the-limitations-of-selenium)
+3. [How do you install Selenium and set up a WebDriver for Chrome?](#3-how-do-you-install-selenium-and-set-up-a-webdriver-for-chrome)
+4. [How does Selenium interact with a webpage? Explain how it finds and manipulates elements.](#4-how-does-selenium-interact-with-a-webpage-explain-how-it-finds-and-manipulates-elements)
 5. [What are the different ways to launch a browser in Selenium?](#5-what-are-the-different-ways-to-launch-a-browser-in-selenium)
 
 #### **1. What is Selenium, and how does it work?**  
